@@ -3,8 +3,8 @@
 
 ## 👨🏻‍💻 About Me
 
-🔭 I'm currently exploring new technologies and engaging in cutting-edge projects involving AI and Machine Learning.
-🎓 Holding a Bachelor's degree in Computer Science from The University of Southampton Malaysia.
+🔭 I'm currently exploring new technologies and engaging in cutting-edge AI and Machine Learning projects.
+🎓 Pursuing a Bachelor's degree in Computer Science from The University of Southampton Malaysia.
 💼 Active Kaggle Expert and President of the Computer Science Student Club in Johor Bahru, Malaysia.
 👨‍💻 My work spans across various domains, including AI, machine learning, and cloud platforms. 
 ✍️ Besides coding, I enjoy sharing my knowledge through blogging and participating in the Kaggle community.
