@@ -3,7 +3,7 @@
 Currently at University of Southampton Malaysia | Kaggle Expert | Startup Studio President
 
 ```
-📫 mt1e22@soton.ac.uk | 🔗 linkedin.com/in/mtaha21 | 📊 kaggle.com/gfxtaha
+📫 mt1e22@soton.ac.uk | 🔗 linkedin.com/in/mtaha21 | 🌐 https://taham655.vercel.app | 📊 kaggle.com/gfxtaha  
 ```
 
 ## Tech Stack
