@@ -20,7 +20,7 @@ Javascript ████████████░░░░░░░░   60%
 - **Other:** Photoshop, Lightroom
 
 ## Experience
-- ** AI Engineer Intern ** @ AI Planet
+- **AI Engineer Intern** @ AI Planet
 - **Machine Learning Intern** @ TDCX - AI model integration, cloud platform management
 - **President** @ Computer Science Student Club & Startup Studio - Technical initiatives, community building
 - **Kaggle Expert** - Open-source contributions, data science competitions
